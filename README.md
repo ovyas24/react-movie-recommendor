@@ -3,7 +3,7 @@ This Project is based on ML for recommending movies to user based on there favro
 
 ## Live test
 
-Open [https://movie-recommendor.netlify.app/](Movie Recommendor)
+Open [https://movie-recommendor.netlify.app/](Movie-Recommendor)
 
 ## Available Scripts
 
