@@ -1,6 +1,10 @@
 
 This Project is based on ML for recommending movies to user based on there favroits
 
+## Live test
+
+Open [https://movie-recommendor.netlify.app/](Movie Recommendor)
+
 ## Available Scripts
 
 In the project directory, you can run:
