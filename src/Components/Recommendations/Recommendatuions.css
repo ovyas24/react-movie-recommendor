@@ -1,0 +1,18 @@
+.columns{
+    padding: 10px;
+    flex-flow: wrap;
+}
+.columns > .heading {
+    width: 100%;
+    padding: 10px;
+    font-size: 30px;
+    display: flex;
+    justify-content: left;
+}
+
+.columns > .cards-container{
+    width: 100%;
+    display: flex;
+    flex-flow: wrap;
+    padding: 10px;
+}

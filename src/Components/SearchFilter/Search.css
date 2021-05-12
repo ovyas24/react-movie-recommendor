@@ -1,0 +1,41 @@
+.searchFilter__list{
+    width: 100%;
+    position: absolute;
+    background-color: white;
+    padding: 4px;
+    border: 1px solid #efefef;
+    border-top: none;
+    z-index: 1000;
+}
+
+.searchFilter__list > li {
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+.searchFilter__tags{
+    width: 100%;
+    padding: 3px;
+    display: flex;
+}
+
+.searchFilter__tags > span {
+    margin-top: 10px;
+    min-width:100px;
+    border-radius: 50px;
+    padding: 10px;
+    color: #efefef;
+    background-color: #162c5a;
+    margin-right: 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.searchFilter__tags > span > button{
+    margin-top: 4px;
+    align-self: center;
+}
